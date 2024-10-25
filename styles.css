@@ -1,0 +1,14 @@
+body {
+    background-color: #1f2937;
+}
+
+header {
+    color: #E5E7EB;
+}
+#hero-text {
+    font-family: 'Roboto', sans-serif;
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;     
+    width: 200px;
+}
