@@ -10,5 +10,11 @@ header {
     font-size: 48px;
     font-weight: 900;
     color: #F9FAF8;     
-    width: 200px;
+    width: 300px;
+    margin-left: 55px;
+    margin-bottom: auto;
+}
+
+.section1 p {
+    color: #E5E7EB;
 }
